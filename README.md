@@ -109,10 +109,10 @@ Each task generates:
 | 2 | [AG News](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) |
 | 3 | [Fake and Real News](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) |
 | 4 | [CoNLL-2003](https://www.kaggle.com/datasets/alaakhaled/conll003-englishversion) |
-| 5 | [BBC News](https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification) |
+| 5 | [BBC News](https://www.kaggle.com/datasets/yufengdev/bbc-fulltext-and-category) |
 | 6 | [SQuAD v1.1](https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset) |
 | 7 | [CNN-DailyMail](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail) |
-| 8 | [Resume Dataset](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset) + [Job Descriptions](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) |
+| 8 | [Resume Dataset](https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset) + [Job Descriptions](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) |
 
 ---
 
