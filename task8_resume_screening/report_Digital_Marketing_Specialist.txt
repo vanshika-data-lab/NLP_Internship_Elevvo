@@ -1,0 +1,150 @@
+=================================================================
+  RESUME SCREENING REPORT
+  Job: Digital Marketing Specialist
+=================================================================
+
+JOB DESCRIPTION (excerpt):
+  Social Media Managers oversee an organizations social media presence. They create and schedule content, engage with followers, and analyze social media metrics to drive brand awareness and engagement....
+
+TOP 3 CANDIDATES:
+
+  #1  Candidate_107  (Score: 0.580)
+      Category       : Arts
+      Matched Skills : None detected
+      Resume excerpt : Additional qualifications April 2000, Web Designing Course with above average computer skillsEducation Details 
+January...
+
+  #2  Candidate_681  (Score: 0.538)
+      Category       : PMO
+      Matched Skills : None detected
+      Resume excerpt : AREA OF EXPERTISE (PROFILE) Around 10 plus years' proven experience with best global brand Wipro with below expertise:- ...
+
+  #3  Candidate_230  (Score: 0.516)
+      Category       : Sales
+      Matched Skills : None detected
+      Resume excerpt : Skill Sets:     Multi-tasking     Collaborative     Optimistic Thinking     Effective teamleader/team trainer     Visual...
+
+
+ALL CANDIDATES RANKED:
+ rank     candidate    score
+    1 Candidate_107 0.580456
+    2 Candidate_681 0.537826
+    3 Candidate_230 0.516337
+    4 Candidate_269 0.466313
+    5 Candidate_744 0.464423
+    6 Candidate_857 0.442526
+    7 Candidate_682 0.402642
+    8 Candidate_227 0.383864
+    9   Candidate_1 0.381130
+   10 Candidate_268 0.376380
+   11 Candidate_603 0.370826
+   12  Candidate_42 0.368073
+   13 Candidate_408 0.362307
+   14 Candidate_512 0.356461
+   15 Candidate_515 0.355333
+   16 Candidate_229 0.354980
+   17 Candidate_680 0.347642
+   18 Candidate_714 0.346916
+   19 Candidate_711 0.346329
+   20 Candidate_186 0.343550
+   21 Candidate_746 0.343504
+   22 Candidate_405 0.343432
+   23 Candidate_228 0.333287
+   24 Candidate_827 0.329864
+   25 Candidate_555 0.329137
+   26 Candidate_513 0.328940
+   27 Candidate_433 0.320407
+   28 Candidate_406 0.320285
+   29  Candidate_46 0.319275
+   30 Candidate_604 0.317559
+   31 Candidate_434 0.313742
+   32 Candidate_829 0.313374
+   33 Candidate_657 0.312539
+   34 Candidate_270 0.312169
+   35 Candidate_747 0.311246
+   36 Candidate_712 0.310970
+   37 Candidate_141 0.297624
+   38 Candidate_484 0.294063
+   39   Candidate_4 0.292027
+   40 Candidate_108 0.290255
+   41 Candidate_602 0.289473
+   42 Candidate_514 0.287791
+   43  Candidate_44 0.285238
+   44 Candidate_145 0.284874
+   45   Candidate_2 0.283122
+   46 Candidate_458 0.280614
+   47 Candidate_407 0.277198
+   48  Candidate_41 0.274293
+   49 Candidate_457 0.271172
+   50 Candidate_785 0.267199
+   51   Candidate_5 0.264621
+   52 Candidate_552 0.263423
+   53 Candidate_553 0.261220
+   54 Candidate_713 0.251671
+   55 Candidate_825 0.249399
+   56 Candidate_142 0.248353
+   57 Candidate_854 0.246982
+   58 Candidate_659 0.241803
+   59 Candidate_658 0.234109
+   60 Candidate_745 0.228117
+   61 Candidate_459 0.226217
+   62 Candidate_298 0.219524
+   63 Candidate_105 0.218020
+   64  Candidate_43 0.211682
+   65 Candidate_743 0.211356
+   66 Candidate_432 0.205899
+   67 Candidate_320 0.205422
+   68 Candidate_322 0.204372
+   69 Candidate_321 0.202699
+   70 Candidate_788 0.202270
+   71 Candidate_266 0.201419
+   72 Candidate_482 0.198770
+   73 Candidate_456 0.194478
+   74 Candidate_436 0.192888
+   75 Candidate_853 0.192383
+   76 Candidate_826 0.186472
+   77 Candidate_144 0.184110
+   78 Candidate_893 0.181826
+   79 Candidate_323 0.181800
+   80 Candidate_226 0.181537
+   81 Candidate_460 0.178419
+   82 Candidate_435 0.177643
+   83 Candidate_856 0.170707
+   84 Candidate_855 0.168322
+   85 Candidate_297 0.165333
+   86 Candidate_828 0.162214
+   87 Candidate_786 0.159362
+   88 Candidate_656 0.157189
+   89 Candidate_655 0.155360
+   90 Candidate_710 0.151876
+   91 Candidate_324 0.148269
+   92 Candidate_486 0.146591
+   93  Candidate_85 0.145390
+   94 Candidate_404 0.145337
+   95 Candidate_787 0.142203
+   96 Candidate_601 0.141938
+   97 Candidate_556 0.141815
+   98  Candidate_88 0.140504
+   99   Candidate_3 0.128557
+  100 Candidate_188 0.127230
+  101  Candidate_89 0.127212
+  102 Candidate_189 0.127163
+  103 Candidate_789 0.124263
+  104 Candidate_267 0.121474
+  105 Candidate_895 0.120752
+  106 Candidate_190 0.119477
+  107 Candidate_894 0.119410
+  108 Candidate_554 0.118810
+  109 Candidate_483 0.112871
+  110 Candidate_896 0.106201
+  111 Candidate_106 0.096786
+  112 Candidate_897 0.095413
+  113  Candidate_86 0.089625
+  114  Candidate_87 0.087552
+  115 Candidate_109 0.084187
+  116 Candidate_600 0.083997
+  117 Candidate_485 0.079618
+  118 Candidate_300 0.068924
+  119 Candidate_187 0.055406
+  120 Candidate_296 0.028289
+  121 Candidate_299 0.008705

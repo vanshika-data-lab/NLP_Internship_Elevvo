@@ -1,0 +1,149 @@
+=================================================================
+  RESUME SCREENING REPORT
+  Job: Event Manager
+=================================================================
+
+JOB DESCRIPTION (excerpt):
+  A Conference Manager coordinates and manages conferences, meetings, and events. They plan logistics, handle budgeting, liaise with vendors, and ensure the smooth execution of events, catering to the n...
+
+TOP 3 CANDIDATES:
+
+  #1  Candidate_681  (Score: 0.609)
+      Category       : PMO
+      Matched Skills : None detected
+      Resume excerpt : AREA OF EXPERTISE (PROFILE) Around 10 plus years' proven experience with best global brand Wipro with below expertise:- ...
+
+  #2  Candidate_682  (Score: 0.593)
+      Category       : PMO
+      Matched Skills : None detected
+      Resume excerpt : Skills Exceptional communication and networking skills Successful working in a team environment, as well as independentl...
+
+  #3  Candidate_680  (Score: 0.571)
+      Category       : PMO
+      Matched Skills : None detected
+      Resume excerpt : CORE COMPETENCIES     Maintain processes to ensure project management documentation, reports and plans are relevant, acc...
+
+
+ALL CANDIDATES RANKED:
+ rank     candidate    score
+    1 Candidate_681 0.609446
+    2 Candidate_682 0.593338
+    3 Candidate_680 0.570793
+    4 Candidate_512 0.536937
+    5 Candidate_515 0.535269
+    6 Candidate_514 0.515761
+    7 Candidate_107 0.508227
+    8 Candidate_269 0.507364
+    9 Candidate_186 0.488449
+   10 Candidate_513 0.485238
+   11 Candidate_656 0.478843
+   12 Candidate_827 0.430311
+   13 Candidate_230 0.425789
+   14 Candidate_458 0.416149
+   15 Candidate_406 0.414197
+   16 Candidate_408 0.411016
+   17 Candidate_229 0.408444
+   18 Candidate_228 0.404761
+   19  Candidate_42 0.396462
+   20 Candidate_227 0.395565
+   21 Candidate_604 0.391757
+   22 Candidate_711 0.389075
+   23 Candidate_298 0.387967
+   24 Candidate_854 0.380976
+   25 Candidate_270 0.364973
+   26 Candidate_712 0.347534
+   27 Candidate_266 0.344880
+   28 Candidate_658 0.343352
+   29 Candidate_603 0.324639
+   30 Candidate_829 0.316291
+   31 Candidate_896 0.315998
+   32 Candidate_484 0.313971
+   33   Candidate_5 0.312245
+   34 Candidate_602 0.309608
+   35 Candidate_268 0.307693
+   36 Candidate_456 0.298674
+   37  Candidate_46 0.292746
+   38 Candidate_552 0.289652
+   39 Candidate_555 0.279302
+   40 Candidate_407 0.278620
+   41  Candidate_43 0.273063
+   42 Candidate_459 0.270547
+   43   Candidate_1 0.265822
+   44 Candidate_320 0.264605
+   45 Candidate_322 0.264046
+   46 Candidate_853 0.263216
+   47 Candidate_744 0.260728
+   48 Candidate_553 0.259730
+   49 Candidate_404 0.256176
+   50 Candidate_746 0.254075
+   51 Candidate_433 0.253626
+   52 Candidate_297 0.248799
+   53 Candidate_144 0.248503
+   54 Candidate_785 0.247870
+   55 Candidate_485 0.246961
+   56 Candidate_657 0.245477
+   57 Candidate_659 0.244430
+   58 Candidate_747 0.244240
+   59   Candidate_3 0.241993
+   60  Candidate_41 0.238018
+   61  Candidate_44 0.237239
+   62   Candidate_4 0.235192
+   63 Candidate_714 0.233922
+   64 Candidate_457 0.231911
+   65 Candidate_299 0.230275
+   66 Candidate_226 0.227603
+   67 Candidate_482 0.218545
+   68 Candidate_713 0.214459
+   69 Candidate_828 0.212031
+   70 Candidate_826 0.211023
+   71 Candidate_601 0.208190
+   72 Candidate_483 0.204819
+   73 Candidate_788 0.204051
+   74 Candidate_108 0.202309
+   75 Candidate_893 0.193738
+   76 Candidate_432 0.191100
+   77 Candidate_857 0.190487
+   78 Candidate_655 0.187953
+   79 Candidate_460 0.186043
+   80 Candidate_855 0.182562
+   81 Candidate_825 0.182182
+   82 Candidate_434 0.182045
+   83 Candidate_142 0.181288
+   84 Candidate_745 0.171230
+   85 Candidate_141 0.168180
+   86 Candidate_856 0.167909
+   87 Candidate_405 0.164215
+   88 Candidate_105 0.161789
+   89  Candidate_85 0.161207
+   90 Candidate_324 0.152254
+   91 Candidate_554 0.148246
+   92 Candidate_786 0.147157
+   93 Candidate_189 0.146402
+   94 Candidate_267 0.146357
+   95 Candidate_300 0.145229
+   96 Candidate_188 0.144906
+   97 Candidate_787 0.139484
+   98 Candidate_435 0.138202
+   99   Candidate_2 0.137419
+  100 Candidate_600 0.135175
+  101  Candidate_89 0.132840
+  102 Candidate_321 0.131279
+  103 Candidate_296 0.129504
+  104  Candidate_88 0.125506
+  105 Candidate_109 0.123914
+  106 Candidate_145 0.117700
+  107 Candidate_323 0.116700
+  108 Candidate_436 0.114021
+  109 Candidate_710 0.097987
+  110 Candidate_190 0.094374
+  111 Candidate_556 0.090544
+  112  Candidate_87 0.088200
+  113 Candidate_743 0.085430
+  114 Candidate_897 0.081587
+  115 Candidate_187 0.081012
+  116 Candidate_895 0.077972
+  117  Candidate_86 0.063169
+  118 Candidate_789 0.054165
+  119 Candidate_486 0.047783
+  120 Candidate_106 0.035129
+  121 Candidate_894 0.000000

@@ -1,0 +1,153 @@
+=================================================================
+  RESUME SCREENING REPORT
+  Job: Operations Manager
+=================================================================
+
+JOB DESCRIPTION (excerpt):
+  Quality Control Managers establish and enforce quality standards within an organization. They develop quality control processes, perform inspections, and implement corrective actions to maintain produ...
+
+TOP 3 CANDIDATES:
+
+  #1  Candidate_513  (Score: 0.646)
+      Category       : Operations Manager
+      Matched Skills : None detected
+      Resume excerpt : KEY COMPETENCIES    Multi - Operations Management   People Management    Customer Services - Emails     MIS    Vendor & ...
+
+  #2  Candidate_515  (Score: 0.571)
+      Category       : Operations Manager
+      Matched Skills : None detected
+      Resume excerpt : Education Details 
+August 2000 B.E Electronics Pune, Maharashtra Pune University
+Operations Manager 
+
+Operations Man...
+
+  #3  Candidate_896  (Score: 0.548)
+      Category       : Testing
+      Matched Skills : None detected
+      Resume excerpt :     Willingness to accept the challenges.     Positive thinking.     Good learner.     Team Player. DECLARATION: I hereb...
+
+
+ALL CANDIDATES RANKED:
+ rank     candidate    score
+    1 Candidate_513 0.645886
+    2 Candidate_515 0.570828
+    3 Candidate_896 0.547929
+    4 Candidate_296 0.511132
+    5 Candidate_682 0.447383
+    6 Candidate_457 0.440078
+    7 Candidate_514 0.434522
+    8 Candidate_512 0.421959
+    9 Candidate_604 0.418211
+   10 Candidate_680 0.410992
+   11  Candidate_42 0.401551
+   12 Candidate_681 0.399431
+   13 Candidate_656 0.395786
+   14 Candidate_186 0.379781
+   15 Candidate_404 0.363028
+   16 Candidate_897 0.360453
+   17 Candidate_484 0.360317
+   18 Candidate_107 0.355239
+   19 Candidate_714 0.351624
+   20 Candidate_268 0.346121
+   21 Candidate_408 0.344325
+   22 Candidate_407 0.342335
+   23 Candidate_711 0.329636
+   24 Candidate_406 0.325693
+   25 Candidate_893 0.320602
+   26 Candidate_854 0.318164
+   27 Candidate_269 0.314507
+   28 Candidate_458 0.310308
+   29 Candidate_459 0.301521
+   30 Candidate_270 0.299364
+   31 Candidate_713 0.298796
+   32 Candidate_322 0.296811
+   33 Candidate_230 0.290683
+   34  Candidate_46 0.288428
+   35 Candidate_603 0.286281
+   36 Candidate_658 0.283916
+   37 Candidate_746 0.281784
+   38 Candidate_555 0.280926
+   39 Candidate_827 0.279689
+   40 Candidate_785 0.277956
+   41 Candidate_552 0.276274
+   42 Candidate_141 0.275137
+   43 Candidate_229 0.271488
+   44 Candidate_456 0.270401
+   45 Candidate_227 0.270371
+   46  Candidate_44 0.268208
+   47 Candidate_710 0.267435
+   48 Candidate_435 0.265697
+   49 Candidate_659 0.259739
+   50 Candidate_829 0.256676
+   51 Candidate_433 0.255887
+   52 Candidate_266 0.253307
+   53 Candidate_486 0.249621
+   54 Candidate_602 0.246210
+   55 Candidate_786 0.245989
+   56 Candidate_298 0.241120
+   57 Candidate_712 0.239300
+   58 Candidate_747 0.236409
+   59 Candidate_655 0.233258
+   60 Candidate_744 0.232787
+   61 Candidate_657 0.216369
+   62  Candidate_41 0.214283
+   63 Candidate_894 0.210417
+   64 Candidate_553 0.210331
+   65 Candidate_297 0.204586
+   66 Candidate_482 0.204404
+   67 Candidate_432 0.196329
+   68 Candidate_788 0.194435
+   69 Candidate_436 0.192800
+   70 Candidate_895 0.189724
+   71 Candidate_853 0.187874
+   72 Candidate_188 0.186757
+   73 Candidate_320 0.184298
+   74  Candidate_85 0.182046
+   75 Candidate_105 0.181082
+   76 Candidate_405 0.175387
+   77 Candidate_321 0.175007
+   78 Candidate_483 0.174338
+   79 Candidate_855 0.173755
+   80 Candidate_787 0.172261
+   81 Candidate_825 0.170052
+   82 Candidate_228 0.168501
+   83 Candidate_828 0.168018
+   84   Candidate_3 0.164689
+   85 Candidate_226 0.159335
+   86 Candidate_190 0.158150
+   87 Candidate_745 0.157715
+   88   Candidate_1 0.155507
+   89 Candidate_299 0.152896
+   90 Candidate_856 0.150619
+   91 Candidate_460 0.150402
+   92  Candidate_43 0.150009
+   93  Candidate_89 0.147060
+   94  Candidate_86 0.146194
+   95 Candidate_743 0.145928
+   96 Candidate_108 0.144294
+   97 Candidate_434 0.144204
+   98 Candidate_144 0.140175
+   99  Candidate_88 0.137974
+  100 Candidate_187 0.134979
+  101 Candidate_485 0.134126
+  102 Candidate_189 0.128903
+  103 Candidate_601 0.128443
+  104   Candidate_4 0.126087
+  105 Candidate_323 0.121523
+  106   Candidate_5 0.119918
+  107 Candidate_300 0.104350
+  108 Candidate_857 0.100887
+  109 Candidate_554 0.100389
+  110 Candidate_826 0.097007
+  111 Candidate_106 0.093538
+  112 Candidate_142 0.089057
+  113 Candidate_145 0.082079
+  114 Candidate_109 0.078393
+  115  Candidate_87 0.073644
+  116 Candidate_789 0.072106
+  117   Candidate_2 0.062904
+  118 Candidate_324 0.059466
+  119 Candidate_556 0.058650
+  120 Candidate_600 0.020558
+  121 Candidate_267 0.000000

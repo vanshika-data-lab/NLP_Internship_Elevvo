@@ -1,0 +1,149 @@
+=================================================================
+  RESUME SCREENING REPORT
+  Job: Network Engineer
+=================================================================
+
+JOB DESCRIPTION (excerpt):
+  Wireless Network Engineers design, implement, and maintain wireless network solutions. They optimize wireless connectivity, troubleshoot issues, and ensure reliable and secure wireless communications....
+
+TOP 3 CANDIDATES:
+
+  #1  Candidate_656  (Score: 0.854)
+      Category       : Network Security Engineer
+      Matched Skills : communication
+      Resume excerpt : Skill Set       Cisco Certified Network Associates (CCNA): -     Basic knowledge of networking such as Ethernet mediums,...
+
+  #2  Candidate_657  (Score: 0.810)
+      Category       : Network Security Engineer
+      Matched Skills : communication
+      Resume excerpt : Communication Skills My writing skills in English is very good and I am certainly a clear speaker. Being comfortable spe...
+
+  #3  Candidate_896  (Score: 0.754)
+      Category       : Testing
+      Matched Skills : communication
+      Resume excerpt :     Willingness to accept the challenges.     Positive thinking.     Good learner.     Team Player. DECLARATION: I hereb...
+
+
+ALL CANDIDATES RANKED:
+ rank     candidate    score
+    1 Candidate_656 0.854150
+    2 Candidate_657 0.810264
+    3 Candidate_896 0.753623
+    4 Candidate_856 0.707753
+    5 Candidate_406 0.685804
+    6 Candidate_322 0.684556
+    7 Candidate_655 0.673370
+    8 Candidate_456 0.663182
+    9 Candidate_320 0.654069
+   10 Candidate_408 0.651390
+   11 Candidate_515 0.630901
+   12 Candidate_682 0.597760
+   13 Candidate_681 0.589969
+   14 Candidate_680 0.588194
+   15 Candidate_555 0.586372
+   16 Candidate_482 0.575336
+   17 Candidate_300 0.562495
+   18 Candidate_659 0.557128
+   19 Candidate_460 0.545162
+   20 Candidate_268 0.537900
+   21  Candidate_46 0.530365
+   22 Candidate_747 0.512745
+   23 Candidate_484 0.512472
+   24 Candidate_230 0.500147
+   25 Candidate_513 0.499873
+   26 Candidate_658 0.487705
+   27 Candidate_105 0.483756
+   28 Candidate_552 0.478007
+   29 Candidate_186 0.471251
+   30 Candidate_228 0.445302
+   31 Candidate_270 0.441052
+   32 Candidate_459 0.434431
+   33 Candidate_855 0.416657
+   34 Candidate_789 0.402441
+   35 Candidate_829 0.396826
+   36 Candidate_227 0.395563
+   37 Candidate_601 0.393124
+   38 Candidate_436 0.386577
+   39 Candidate_788 0.384668
+   40 Candidate_893 0.384489
+   41 Candidate_600 0.379648
+   42 Candidate_107 0.364339
+   43   Candidate_4 0.354775
+   44 Candidate_144 0.354006
+   45 Candidate_483 0.352300
+   46 Candidate_603 0.350342
+   47 Candidate_786 0.347640
+   48 Candidate_297 0.345456
+   49  Candidate_41 0.345262
+   50 Candidate_269 0.325303
+   51 Candidate_145 0.324233
+   52  Candidate_43 0.320477
+   53 Candidate_602 0.317618
+   54 Candidate_857 0.311287
+   55 Candidate_825 0.307251
+   56 Candidate_298 0.304685
+   57 Candidate_296 0.302815
+   58  Candidate_44 0.288315
+   59 Candidate_189 0.287073
+   60 Candidate_324 0.285798
+   61  Candidate_42 0.285543
+   62 Candidate_141 0.285336
+   63 Candidate_457 0.284551
+   64 Candidate_190 0.275822
+   65 Candidate_828 0.275262
+   66 Candidate_712 0.270712
+   67 Candidate_743 0.268840
+   68 Candidate_407 0.267260
+   69 Candidate_854 0.266177
+   70 Candidate_458 0.264749
+   71 Candidate_321 0.264313
+   72   Candidate_3 0.264289
+   73 Candidate_710 0.260770
+   74 Candidate_485 0.260135
+   75 Candidate_604 0.259793
+   76   Candidate_1 0.259500
+   77 Candidate_895 0.257224
+   78 Candidate_266 0.257008
+   79 Candidate_827 0.255745
+   80   Candidate_5 0.245753
+   81 Candidate_405 0.242894
+   82  Candidate_89 0.241986
+   83 Candidate_187 0.237476
+   84 Candidate_556 0.235742
+   85 Candidate_299 0.233276
+   86 Candidate_711 0.226322
+   87 Candidate_553 0.221765
+   88 Candidate_714 0.214659
+   89 Candidate_785 0.213947
+   90 Candidate_108 0.211361
+   91 Candidate_826 0.209449
+   92 Candidate_512 0.197915
+   93 Candidate_432 0.197672
+   94 Candidate_188 0.195797
+   95 Candidate_404 0.195676
+   96 Candidate_109 0.176937
+   97 Candidate_746 0.168977
+   98 Candidate_323 0.168539
+   99 Candidate_554 0.165162
+  100 Candidate_744 0.162723
+  101 Candidate_514 0.159813
+  102 Candidate_787 0.148360
+  103 Candidate_897 0.143663
+  104 Candidate_106 0.137162
+  105 Candidate_434 0.132359
+  106 Candidate_894 0.131482
+  107 Candidate_435 0.129813
+  108 Candidate_486 0.129369
+  109 Candidate_433 0.114967
+  110 Candidate_229 0.110406
+  111 Candidate_226 0.107829
+  112 Candidate_142 0.095110
+  113  Candidate_85 0.094088
+  114 Candidate_267 0.085264
+  115 Candidate_713 0.083005
+  116   Candidate_2 0.075848
+  117 Candidate_745 0.075697
+  118  Candidate_87 0.073251
+  119 Candidate_853 0.073238
+  120  Candidate_86 0.064234
+  121  Candidate_88 0.058019

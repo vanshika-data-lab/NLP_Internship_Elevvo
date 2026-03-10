@@ -1,0 +1,149 @@
+=================================================================
+  RESUME SCREENING REPORT
+  Job: Web Developer
+=================================================================
+
+JOB DESCRIPTION (excerpt):
+  Frontend Web Developers design and implement user interfaces for websites, ensuring they are visually appealing and user-friendly. They collaborate with designers and backend developers to create seam...
+
+TOP 3 CANDIDATES:
+
+  #1  Candidate_322  (Score: 0.707)
+      Category       : Java Developer
+      Matched Skills : None detected
+      Resume excerpt : TECHNICAL SKILLS Skills: Java, SQL, PL/SQL, C, C++, BootStrap, JSP, Ext JS Operating Systems: Windows Tools: Toad, Eclip...
+
+  #2  Candidate_829  (Score: 0.590)
+      Category       : DotNet Developer
+      Matched Skills : None detected
+      Resume excerpt : Technologies ASP.NET, MVC 3.0/4.0/5.0, Unit Testing, Entity Framework 6.0 Languages C#.NET JS Library JavaScript, JQuery...
+
+  #3  Candidate_145  (Score: 0.564)
+      Category       : Web Designing
+      Matched Skills : None detected
+      Resume excerpt : IT SKILLS Languages: C (Basic), JAVA (Basic) Web Technologies: HTML5, CSS3, Bootstrap, JavaScript, jQuery, Corel Draw, P...
+
+
+ALL CANDIDATES RANKED:
+ rank     candidate    score
+    1 Candidate_322 0.707157
+    2 Candidate_829 0.590490
+    3 Candidate_145 0.563640
+    4 Candidate_144 0.559798
+    5 Candidate_142 0.539389
+    6 Candidate_141 0.524058
+    7 Candidate_555 0.506038
+    8 Candidate_825 0.501635
+    9 Candidate_856 0.491639
+   10 Candidate_603 0.481529
+   11 Candidate_321 0.471420
+   12 Candidate_827 0.420777
+   13 Candidate_323 0.411676
+   14 Candidate_436 0.410141
+   15 Candidate_433 0.409306
+   16 Candidate_459 0.396630
+   17 Candidate_711 0.389327
+   18 Candidate_828 0.383906
+   19 Candidate_552 0.376820
+   20   Candidate_1 0.374971
+   21 Candidate_432 0.366010
+   22 Candidate_854 0.364992
+   23   Candidate_3 0.361855
+   24 Candidate_458 0.352439
+   25 Candidate_320 0.348514
+   26 Candidate_857 0.345860
+   27 Candidate_407 0.337399
+   28 Candidate_744 0.330257
+   29 Candidate_602 0.324656
+   30 Candidate_554 0.322545
+   31 Candidate_713 0.308234
+   32 Candidate_406 0.304716
+   33 Candidate_405 0.297526
+   34 Candidate_853 0.295711
+   35 Candidate_460 0.295235
+   36 Candidate_855 0.294535
+   37 Candidate_601 0.292350
+   38 Candidate_789 0.290639
+   39 Candidate_714 0.283842
+   40 Candidate_747 0.280504
+   41 Candidate_785 0.276729
+   42 Candidate_435 0.265510
+   43 Candidate_515 0.264369
+   44 Candidate_681 0.261498
+   45 Candidate_189 0.260969
+   46 Candidate_826 0.259268
+   47 Candidate_298 0.255361
+   48 Candidate_513 0.253645
+   49 Candidate_659 0.251679
+   50 Candidate_408 0.251421
+   51 Candidate_553 0.248467
+   52 Candidate_655 0.247363
+   53   Candidate_4 0.246107
+   54 Candidate_456 0.241715
+   55 Candidate_788 0.236053
+   56 Candidate_434 0.230634
+   57 Candidate_745 0.227545
+   58 Candidate_786 0.225542
+   59 Candidate_746 0.225170
+   60 Candidate_324 0.223807
+   61 Candidate_186 0.223773
+   62 Candidate_484 0.223384
+   63 Candidate_604 0.221878
+   64  Candidate_89 0.220684
+   65  Candidate_42 0.217416
+   66 Candidate_556 0.214832
+   67 Candidate_743 0.207079
+   68 Candidate_658 0.205975
+   69 Candidate_300 0.204661
+   70  Candidate_44 0.203128
+   71 Candidate_657 0.202449
+   72   Candidate_5 0.198988
+   73 Candidate_269 0.198884
+   74 Candidate_680 0.198789
+   75 Candidate_297 0.198199
+   76 Candidate_482 0.195648
+   77  Candidate_41 0.188019
+   78 Candidate_600 0.187741
+   79 Candidate_787 0.182008
+   80 Candidate_896 0.178421
+   81 Candidate_230 0.177138
+   82 Candidate_682 0.176831
+   83 Candidate_107 0.174583
+   84 Candidate_710 0.173537
+   85 Candidate_712 0.173170
+   86 Candidate_227 0.169968
+   87 Candidate_105 0.167804
+   88 Candidate_229 0.167045
+   89 Candidate_514 0.163598
+   90 Candidate_404 0.160729
+   91  Candidate_46 0.157413
+   92  Candidate_43 0.156182
+   93 Candidate_656 0.152903
+   94 Candidate_512 0.146315
+   95 Candidate_893 0.146026
+   96  Candidate_85 0.138250
+   97 Candidate_108 0.135034
+   98 Candidate_228 0.130201
+   99 Candidate_266 0.128649
+  100 Candidate_190 0.128189
+  101 Candidate_270 0.124648
+  102 Candidate_268 0.123217
+  103 Candidate_106 0.122795
+  104 Candidate_457 0.122505
+  105  Candidate_88 0.106887
+  106 Candidate_296 0.106322
+  107 Candidate_187 0.105087
+  108 Candidate_485 0.102774
+  109 Candidate_894 0.097393
+  110  Candidate_86 0.089129
+  111   Candidate_2 0.086996
+  112 Candidate_486 0.080557
+  113 Candidate_299 0.080334
+  114 Candidate_483 0.078399
+  115 Candidate_188 0.078250
+  116 Candidate_895 0.070141
+  117  Candidate_87 0.063017
+  118 Candidate_226 0.047672
+  119 Candidate_897 0.035607
+  120 Candidate_109 0.017979
+  121 Candidate_267 0.000000

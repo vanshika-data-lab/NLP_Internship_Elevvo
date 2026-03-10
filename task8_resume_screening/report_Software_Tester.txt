@@ -1,0 +1,149 @@
+=================================================================
+  RESUME SCREENING REPORT
+  Job: Software Tester
+=================================================================
+
+JOB DESCRIPTION (excerpt):
+  A Quality Assurance Analyst tests software and products to ensure they meet quality standards. They identify defects, report issues, and work with development teams to resolve problems....
+
+TOP 3 CANDIDATES:
+
+  #1  Candidate_896  (Score: 0.732)
+      Category       : Testing
+      Matched Skills : None detected
+      Resume excerpt :     Willingness to accept the challenges.     Positive thinking.     Good learner.     Team Player. DECLARATION: I hereb...
+
+  #2  Candidate_604  (Score: 0.719)
+      Category       : DevOps Engineer
+      Matched Skills : None detected
+      Resume excerpt : Core skills     Project / Program Management     Agile / Scrum Management     Risk /Client Management     Process Improv...
+
+  #3  Candidate_407  (Score: 0.691)
+      Category       : Business Analyst
+      Matched Skills : None detected
+      Resume excerpt : IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS W...
+
+
+ALL CANDIDATES RANKED:
+ rank     candidate    score
+    1 Candidate_896 0.732112
+    2 Candidate_604 0.718964
+    3 Candidate_407 0.691068
+    4 Candidate_459 0.653475
+    5 Candidate_406 0.629709
+    6 Candidate_456 0.616015
+    7 Candidate_680 0.610904
+    8 Candidate_296 0.594379
+    9 Candidate_408 0.580216
+   10 Candidate_404 0.551204
+   11 Candidate_460 0.543708
+   12 Candidate_893 0.519934
+   13   Candidate_1 0.507438
+   14 Candidate_512 0.497920
+   15 Candidate_681 0.477040
+   16 Candidate_603 0.466634
+   17 Candidate_785 0.465398
+   18 Candidate_513 0.453376
+   19 Candidate_895 0.448419
+   20 Candidate_515 0.447441
+   21 Candidate_682 0.424626
+   22 Candidate_897 0.423396
+   23 Candidate_458 0.420186
+   24  Candidate_46 0.413327
+   25  Candidate_89 0.404847
+   26 Candidate_746 0.403051
+   27 Candidate_656 0.397920
+   28 Candidate_405 0.397598
+   29 Candidate_436 0.397453
+   30 Candidate_322 0.394748
+   31 Candidate_602 0.394363
+   32 Candidate_457 0.388170
+   33 Candidate_553 0.384200
+   34 Candidate_713 0.383720
+   35 Candidate_433 0.383318
+   36 Candidate_141 0.376911
+   37 Candidate_555 0.368011
+   38 Candidate_186 0.365730
+   39 Candidate_298 0.360321
+   40 Candidate_711 0.356788
+   41 Candidate_658 0.355040
+   42 Candidate_747 0.351620
+   43 Candidate_787 0.344676
+   44 Candidate_107 0.341715
+   45 Candidate_786 0.339360
+   46 Candidate_552 0.337784
+   47 Candidate_788 0.337137
+   48 Candidate_855 0.336985
+   49 Candidate_321 0.334344
+   50 Candidate_712 0.331551
+   51   Candidate_4 0.326474
+   52  Candidate_41 0.324344
+   53 Candidate_854 0.323678
+   54 Candidate_829 0.321634
+   55 Candidate_434 0.311101
+   56 Candidate_435 0.310240
+   57 Candidate_514 0.306164
+   58 Candidate_228 0.303385
+   59  Candidate_42 0.302049
+   60  Candidate_44 0.301988
+   61 Candidate_857 0.300854
+   62 Candidate_853 0.299620
+   63 Candidate_145 0.299537
+   64 Candidate_482 0.298856
+   65   Candidate_3 0.298552
+   66 Candidate_230 0.296059
+   67 Candidate_825 0.291690
+   68 Candidate_657 0.291295
+   69   Candidate_2 0.290181
+   70 Candidate_828 0.289161
+   71 Candidate_227 0.286838
+   72 Candidate_432 0.285168
+   73 Candidate_744 0.284530
+   74 Candidate_554 0.280941
+   75 Candidate_300 0.277604
+   76 Candidate_601 0.277567
+   77 Candidate_268 0.277120
+   78 Candidate_714 0.276583
+   79 Candidate_655 0.275675
+   80   Candidate_5 0.272269
+   81 Candidate_827 0.268652
+   82 Candidate_266 0.264842
+   83 Candidate_710 0.263598
+   84 Candidate_105 0.259327
+   85 Candidate_743 0.258949
+   86 Candidate_269 0.255935
+   87 Candidate_270 0.255884
+   88 Candidate_745 0.253245
+   89 Candidate_320 0.248993
+   90 Candidate_856 0.245009
+   91 Candidate_323 0.244839
+   92 Candidate_484 0.239310
+   93 Candidate_142 0.238553
+   94 Candidate_229 0.237623
+   95 Candidate_297 0.232823
+   96 Candidate_894 0.232794
+   97 Candidate_556 0.229872
+   98 Candidate_144 0.224812
+   99  Candidate_87 0.219711
+  100 Candidate_299 0.215699
+  101 Candidate_190 0.214298
+  102  Candidate_85 0.213179
+  103  Candidate_88 0.206834
+  104  Candidate_43 0.206586
+  105 Candidate_187 0.205191
+  106 Candidate_483 0.200769
+  107 Candidate_789 0.195117
+  108 Candidate_324 0.195084
+  109 Candidate_826 0.185257
+  110  Candidate_86 0.181532
+  111 Candidate_486 0.180356
+  112 Candidate_188 0.175776
+  113 Candidate_659 0.168755
+  114 Candidate_485 0.166552
+  115 Candidate_600 0.164291
+  116 Candidate_226 0.158930
+  117 Candidate_106 0.133119
+  118 Candidate_189 0.129352
+  119 Candidate_109 0.114034
+  120 Candidate_108 0.101202
+  121 Candidate_267 0.000000
