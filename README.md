@@ -1,6 +1,6 @@
 # 🧠 NLP Internship Tasks – Elevvo
 
-A collection of **5 NLP projects** completed as part of the Elevvo 1-month internship program.  
+A collection of **8 NLP projects** completed as part of the Elevvo 1-month internship program.  
 Each task is self-contained with its own dataset, preprocessing pipeline, models, and visualisations.
 
 ---
@@ -124,5 +124,5 @@ Each task generates:
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Vanshika Aggarwal]**  
 Elevvo NLP Internship · 2024
